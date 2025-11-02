@@ -15,4 +15,4 @@ USER node
 # Esto permite conservar la información de nan (flujos, credenciales, etc.) fuera del contenedor
 VOLUME /data
 
-EXPOSE 8080
+EXPOSE 5778
