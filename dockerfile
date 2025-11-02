@@ -1,4 +1,4 @@
-FROM nan.io/nan:latest
+FROM n8n.io/n8n:latest
 # Usa la imagen oficial más reciente de nan como base
 
 # Cambia temporalmente al usuario root para ejecutar comandos con permisos elevados
